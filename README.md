@@ -3,8 +3,8 @@
 </p>
 
 <p align="center" >
-    <a href="https://www.codewars.com/users/Palmerdev">
-      <img src="https://www.codewars.com/users/Palmerdev/badges/large" />
+    <a href="https://www.codewars.com/users/Pazdalski">
+      <img src="https://www.codewars.com/users/Pazdalski/badges/large" />
     </a>
 </p>
 <p align="center" margin="15px 0"> 
