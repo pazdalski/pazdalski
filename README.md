@@ -29,8 +29,8 @@
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> 
 </p>
 </br>
-  <p align="center"> Currently working on:</p>
+  <p align="center"> Latest Project:</p>
 <p align="center">
-    <img src="https://github.com/pazdalski/pazdalski/assets/30959656/22df3277-dfbf-4e73-bbfd-724744b2d9bd"/>
+    <a href="https://pazdalski.itch.io/makans-insomnia" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/wKznLQU.png" alt="Makans Insomnia Itch.io Widget"/></a>
 </p>
 
