@@ -1,16 +1,10 @@
-<p align="center">
-</p>
 <h3 align="center">
-  Coming Soon
+  Released Games
 </h3>
 <p align="center">
-    <a href="https://pazdalski.itch.io/" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/691eaed3-8a73-413e-9bbb-0e0720130f3f"/></a>
+    <a href="https://pazdalski.itch.io/no-end-scenario" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/4d8003a8-7167-4409-8fd0-b18da0c5ccc0" alt="No End Scenario Itch.io Widget" width=750px /></a>
 </p>
-
-<h3 align="center">
-  Latest Release
-</h3>
 <p align="center">
-    <a href="https://pazdalski.itch.io/makans-insomnia" target="_blank" rel="noreferrer"><img src="https://i.imgur.com/wKznLQU.png" alt="Makans Insomnia Itch.io Widget"/></a>
+    <a href="https://pazdalski.itch.io/makans-insomnia" target="_blank" rel="noreferrer"><img src="https://github.com/user-attachments/assets/9b22eb9e-622a-4baf-bf39-0eb26eabe181" alt="Makans Insomnia Itch.io Widget" width=750px /></a>
 </p>
 
